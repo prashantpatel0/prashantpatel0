@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashant - aka [prashantpatel0][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Programmer and Developer!
 - 🔭 I’m currently working on a [EYE GAZE TRACKING][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for Internship or Job.
@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="prashantpatel0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashantpatel0&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
