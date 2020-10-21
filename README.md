@@ -9,7 +9,7 @@
 <br />
 <img align="left" alt="prashantpatel0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashantpatel0&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
+[website]: https://github.com/prashantpatel0/EyeGazeTrackingRepo
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/___prashant___patel___
