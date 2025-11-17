@@ -8,7 +8,7 @@
 <br />
 <img align="left" alt="prashantpatel0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prashantpatel0&show_icons=true&hide_border=true" />
 
-[website]: https://github.com/prashantpatel0/EyeGazeTrackingRepo
+[website]: https://github.com/prashantpatel0/User-Attentiveness-Main-Repo
 [github]: https://github.com/prashantpatel0
 [twitter]: https://twitter.com/prashantpatel54
 [youtube]: https://youtube.com/
